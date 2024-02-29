@@ -1,0 +1,6 @@
+*.out
+*.o
+*.swp
+*.txt
+tmp_files
+*.gch
