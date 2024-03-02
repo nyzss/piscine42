@@ -25,3 +25,5 @@ dump pour ma piscine 42 du 5 fevrier 2024 (ended on 1 mars)
 | C 09       | 100%  | ✨     |
 | C 10       | 0%    | ❌     |
 | C 11       | 80%   | ✅     |
+| C 12       | XXX   | ❓     |
+| C 13       | XXX   | ❓     |
