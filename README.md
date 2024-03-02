@@ -2,6 +2,13 @@ dump pour ma piscine 42 du 5 fevrier 2024 (ended on 1 mars)
 
 # 🏅 ranking 25/420
 
+| Exam        | Score | Status |
+|-------------|-------|--------|
+| Exam 00     | 100%  | ✨     |
+| Exam 01     | 100%  | ✨     |
+| Exam 02     | 90%   | ✅     |
+| Exam Final  | 72%   | ✅     |
+
 | Project    | Score | Status |
 |------------|-------|--------|
 | Shell 00   | 70%   | ✅     |
