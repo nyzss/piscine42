@@ -1,4 +1,4 @@
-dump pour ma piscine 42 du 5 fevrier 2024 (en cours)
+dump pour ma piscine 42 du 5 fevrier 2024 (ended on 1 mars)
 
 # 🏅 ranking 25/420
 
